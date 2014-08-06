@@ -180,6 +180,7 @@
         <device FullName="Galaxy S IV (Verizon)" CodeName="jflte"/>
         <device FullName="Galaxy S IV Mini (3g)" CodeName="serrano3gxx"/>
         <device FullName="Galaxy S IV Mini (LTE)" CodeName="serranoltexx"/>
+        <device FullName="Galaxy S IV Mini (USC)" CodeName="serranolteusc"/>
         <device FullName="Galaxy S B" CodeName="galaxysbmtd"/>
         <device FullName="Galaxy S Blaze 4G (T-Mobile)" CodeName="t769"/>
         <device FullName="Galaxy S LCD" CodeName="galaxysl"/>
